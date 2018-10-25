@@ -1,13 +1,9 @@
 body{
         font-family: 'Shadows Into Light', sans-serif;
+        background-color: #efefef
 }
 
-
-.ul-buttons{
-    width:100%;
-    margin: 0;
-    list-style: none;
-}
+/*------------------------Header----------------------------------------------*/
 
 .band{
     width: 600px;
@@ -17,6 +13,8 @@ body{
     font-size: 70px;
 }
 
+/*------------------------Buttons---------------------------------------------*/
+
 .btn-width{
     width: 100%;
     margin-top: 10px;
@@ -25,5 +23,27 @@ body{
 }
 
 .li-margin1{
-    margin-left: 30%;
+    margin-right: 10%
 }
+
+.p-size{
+    font-size: 40px;
+}
+
+.ul-buttons{
+    width:100%;
+    margin: 0;
+    margin-right: 10px;
+    list-style: none;
+}
+
+
+/*------------------------main Section----------------------------------------*/
+
+blockquote{
+    background-color: #ffffff;
+    border: solid;
+}
+
+
+/*-----------------------Footer-----------------------------------------------*/
