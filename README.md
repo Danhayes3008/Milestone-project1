@@ -16,8 +16,11 @@ the page that the viewer was on. No bugs. - 24/10/2018
 
 buttons:
 
-Tested buttons to see if they show up on desktop with on under teh other. this 
-did not work will look at the code and try to find the problem, - 24/10/2018
+.Tested buttons to see if they show up on desktop with on under teh other. This 
+ did not work will look at the code and try to find the problem. - 24/10/2018
 
-Tested to see if buttons hide on mobile screen size, all are hidden from view 
-when window shrunk to mobile screen size. - 24/10/2018 
+.Tested to see if buttons hide on mobile screen size, all are hidden from view 
+ when window shrunk to mobile screen size. - 24/10/2018 
+
+.Checked changes to buttons to see if they were disired size. Some adjustments
+ still needed. - 25/10/2019
