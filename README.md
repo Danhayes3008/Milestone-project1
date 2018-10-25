@@ -22,7 +22,7 @@ band name at top of page:
  using the developer tools, managed to get text size I was looking for. will 
  retest this once add text style. - 25/10/2018
 
-buttons:
+<strong>buttons:</strong>
 
 .Tested buttons to see if they show up on desktop with on under teh other. This 
  did not work will look at the code and try to find the problem. - 24/10/2018
@@ -36,5 +36,10 @@ buttons:
 .tested buttons after more adjustments found error in the Media button. extra 
  </p> found inside the button element and deleted. More testing to be done once
  a style is added, and links put in place.- 25/10/2018
+ 
+ mobile first menu:
+ 
+ added and tested mobile first menubar to make sure it worked. more testing to 
+ be done when content added and styled. - 25/10/2018
  
  Contributions:

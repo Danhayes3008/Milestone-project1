@@ -7,10 +7,12 @@ body{
 
 .band{
     width: 600px;
-    position: absolute;
-    top: 70px;
-    left: 400px;
+    margin-top: 40px;
     font-size: 70px;
+}
+
+.drp-mnu{
+    width:20px;
 }
 
 /*------------------------Buttons---------------------------------------------*/
@@ -35,6 +37,7 @@ body{
     margin: 0;
     margin-right: 10px;
     list-style: none;
+    padding: 0;
 }
 
 
@@ -47,3 +50,14 @@ blockquote{
 
 
 /*-----------------------Footer-----------------------------------------------*/
+
+
+/*-----------------------Media Quaries----------------------------------------*/
+
+
+@media (min-width: 900px){
+    .main-section{
+        margin-left: 10%;
+        
+    }
+}
