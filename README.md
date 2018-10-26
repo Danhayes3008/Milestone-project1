@@ -37,9 +37,19 @@ band name at top of page:
  </p> found inside the button element and deleted. More testing to be done once
  a style is added, and links put in place.- 25/10/2018
  
+.tested new button adjustments for tablet screen size, unknown issue were 
+ navigation buttons wont hide until menu is selected. Will look at fixing this 
+ once the rest of the web page is finished. - 26/10/2018
+ 
  mobile first menu:
  
  added and tested mobile first menubar to make sure it worked. more testing to 
  be done when content added and styled. - 25/10/2018
  
  Contributions:
+ 
+After researching the monkees on google i discovered from a <a href="https://www
+.monkees.com/news?page=1">monkees</a> website that a christmas album has been releised.
+No text was copied, but wanted to give recognition to this website for the
+latest news on the band that i have found. This also includes dates for Michael
+Nesmith and the First National Band Redux, and a super delux edition album.
