@@ -53,3 +53,6 @@ After researching the monkees on google i discovered from a <a href="https://www
 No text was copied, but wanted to give recognition to this website for the
 latest news on the band that i have found. This also includes dates for Michael
 Nesmith and the First National Band Redux, and a super delux edition album.
+
+I used icons from <a href="https://www.w3schools.com">w3schools.com</a> for the 
+dropdown menu and social media links.

@@ -3,6 +3,10 @@ body{
         background-color: #efefef
 }
 
+i{
+    font-size: 24px;
+}
+
 /*------------------------Header----------------------------------------------*/
 
 .band{
@@ -47,6 +51,13 @@ body{
     margin-right: 10px;
     list-style: none;
     padding: 0;
+}
+
+.btn1{
+    width:10px;
+    height: 10px;
+    color: black;
+    background-color: green;
 }
 
 
