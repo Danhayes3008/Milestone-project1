@@ -1,13 +1,37 @@
 body{
         font-family: 'Shadows Into Light', sans-serif;
-        background-color: #efefef
+        background-color: #ff6600
 }
 
 i{
     font-size: 24px;
 }
 
+
+/*------------------------colors----------------------------------------------*/
+
+.black{
+    color:#000000;
+}
+
+.blue{
+    background-color: #01eeff;
+}
+
+.white-col{
+    color: #ffffff;
+}
+
 /*------------------------Header----------------------------------------------*/
+
+header{
+    background-color:yellow;
+    border-bottom: solid;
+}
+
+.h2{
+    padding-left: 10px;
+}
 
 .band{
     width: 600px;
@@ -64,17 +88,18 @@ i{
 /*------------------------main Section----------------------------------------*/
 
 blockquote{
-    background-color: #ffffff;
+    background-color: #ff0000;
     border: solid;
 }
 
 
 /*-----------------------Footer-----------------------------------------------*/
 
+
 .footer{
     border-top: solid;
     background-color: yellow;
-    height: 60px;
+    
 }
 
 .s-links{
@@ -89,9 +114,38 @@ blockquote{
 /*-----------------------Media Quaries----------------------------------------*/
 
 
-@media (min-width: 900px){
-    .main-section{
-        margin-left: 10%;
-        
+
+@media screen and (max-width: 992px){
+    .news{
+        background-color:#0ff14;
     }
+}
+
+@media screen and (max-width: 800px){
+    .news{
+        background-color:#0ff14;
+    }
+}
+
+@media (min-width: 993px){
+
+    .scroll{
+    overflow: scroll;
+    }
+    .main-section{
+    height: 610px;
+    padding-right:10px;
+}
+.news{
+    border: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #0FFF14;
+    border-radius: 2%
+}
+
+.img1{
+    padding:0;
+    margin: 0;
+}
 }

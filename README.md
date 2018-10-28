@@ -12,6 +12,8 @@ changes made to the actual code. Dates of the tests I have done will be placed
 next to the comments on the test I conducted, to show a timeline for each section
 that has been checked for bugs, or errors.
 
+--------------------------------------------------------------------------------
+
 title:
 Tested to make sure the title came on the window tab showing the band name, and
 the page that the viewer was on. No bugs. - 24/10/2018
@@ -21,6 +23,8 @@ band name at top of page:
 .After trial and error trying to size the band's name on top of the website
  using the developer tools, managed to get text size I was looking for. will 
  retest this once add text style. - 25/10/2018
+
+--------------------------------------------------------------------------------
 
 <strong>buttons:</strong>
 
@@ -41,10 +45,16 @@ band name at top of page:
  navigation buttons wont hide until menu is selected. Will look at fixing this 
  once the rest of the web page is finished. - 26/10/2018
  
+ -------------------------------------------------------------------------------
+ 
  mobile first menu:
  
  added and tested mobile first menubar to make sure it worked. more testing to 
  be done when content added and styled. - 25/10/2018
+ 
+ 
+After adding some background colors and making some small changes for a better,
+
  
  Contributions:
  
