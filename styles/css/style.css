@@ -71,6 +71,20 @@ blockquote{
 
 /*-----------------------Footer-----------------------------------------------*/
 
+.footer{
+    border-top: solid;
+    background-color: yellow;
+    height: 60px;
+}
+
+.s-links{
+    float: right;
+    margin-right: 20px;
+}
+
+.pad-top{
+    padding-top: 20px;
+}
 
 /*-----------------------Media Quaries----------------------------------------*/
 
