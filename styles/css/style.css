@@ -1,6 +1,10 @@
 body{
-        font-family: 'Shadows Into Light', sans-serif;
-        background-color: #ff6600
+    background: url('../../media/images/monkees.jpg');
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-position: fixed;
+    font-family: 'Shadows Into Light', sans-serif;
 }
 
 i{
@@ -62,7 +66,7 @@ header{
 }
 
 .li-margin1{
-    margin-right: 10%
+    margin-right: 10%;
 }
 
 .p-size{
@@ -117,35 +121,41 @@ blockquote{
 
 @media screen and (max-width: 992px){
     .news{
-        background-color:#0ff14;
+        background-color:#14C417;
+        border: solid;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #12A615;
+        border-radius: 2%;
+        text-align: center;
+        width: 75%;
     }
 }
 
 @media screen and (max-width: 800px){
     .news{
-        background-color:#0ff14;
+        background-color:#14C417;
+        width: 100%;
+        margin-top: 5%;
+        margin-bottom: 5%;
     }
 }
 
 @media (min-width: 993px){
 
-    .scroll{
-    overflow: scroll;
-    }
     .main-section{
-    height: 610px;
     padding-right:10px;
-}
-.news{
-    border: solid;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: #0FFF14;
-    border-radius: 2%
-}
-
-.img1{
-    padding:0;
-    margin: 0;
-}
+        
+    }
+    .news{
+        border: solid;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #12A615;
+        border-radius: 2%;
+        width: 75%;
+        margin-left: 12.5%;
+        text-align: center; 
+            
+    }
 }

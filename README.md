@@ -52,8 +52,6 @@ band name at top of page:
  added and tested mobile first menubar to make sure it worked. more testing to 
  be done when content added and styled. - 25/10/2018
  
- 
-After adding some background colors and making some small changes for a better,
 
  
  Contributions:
@@ -66,3 +64,8 @@ Nesmith and the First National Band Redux, and a super delux edition album.
 
 I used icons from <a href="https://www.w3schools.com">w3schools.com</a> for the 
 dropdown menu and social media links.
+
+recieved help from Robin Zigmond on the slack general chat room in regards to an
+error i was having with setting an image as a background. After sharing some of
+my code and screenshot of my file directory, he pointed out that i forgot to add
+../../ at front of the name for my image to be used.
