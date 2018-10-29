@@ -38,9 +38,11 @@ header{
 }
 
 .band{
-    width: 600px;
+    display: inline-block;
+    width: 100%;
     margin-top: 40px;
     font-size: 70px;
+    padding-left: 2%;
 }
 
 .drp-mnu{
@@ -48,6 +50,7 @@ header{
 }
 
 .navbar-txt-white{
+    display: inline-block;
     color: blue;
     font-weight: 600;
     font-size: 40px;
@@ -70,6 +73,10 @@ header{
 }
 
 .p-size{
+    font-size: 20px;
+}
+
+.p{
     font-size: 40px;
 }
 
@@ -94,6 +101,8 @@ header{
 blockquote{
     background-color: #ff0000;
     border: solid;
+    opacity: 1;
+    
 }
 
 
@@ -125,11 +134,20 @@ blockquote{
         border: solid;
         padding-left: 10px;
         padding-right: 10px;
-        background-color: #12A615;
         border-radius: 2%;
         text-align: center;
         width: 75%;
+        margin-left: 12.5%;
+        opacity:0.5;
     }
+    
+    .band{
+    display: inline-block;
+    width: 100%;
+    margin-top: 40px;
+    font-size: 70px;
+    padding-left: 2%;
+}
 }
 
 @media screen and (max-width: 800px){
@@ -139,6 +157,14 @@ blockquote{
         margin-top: 5%;
         margin-bottom: 5%;
     }
+    
+    .band{
+    display: inline-block;
+    width: 100%;
+    margin-top: 40px;
+    font-size: 70px;
+    padding-left: 2%;
+}
 }
 
 @media (min-width: 993px){
@@ -147,6 +173,18 @@ blockquote{
     padding-right:10px;
         
     }
+    
+    .band{
+    display: inline-block;
+    width: 100%;
+    margin-top: 40px;
+    font-size: 70px;
+    padding-left: 2%;
+}
+
+.blockquote{
+    opacity: none;
+}
     .news{
         border: solid;
         padding-left: 10px;
@@ -155,7 +193,8 @@ blockquote{
         border-radius: 2%;
         width: 75%;
         margin-left: 12.5%;
-        text-align: center; 
+        text-align: center;
+        opacity: 0.5;
             
     }
 }
