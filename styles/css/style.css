@@ -7,8 +7,11 @@ body{
     font-family: 'Shadows Into Light', sans-serif;
 }
 
-i{
-    font-size: 24px;
+.i{
+    font-size: 12px;
+    margin-left: 25px;
+    padding-right: 10px;
+    color: black;
 }
 
 
@@ -18,19 +21,37 @@ i{
     color:#000000;
 }
 
-.blue{
-    background-color: #01eeff;
-}
-
 .white-col{
     color: #ffffff;
 }
 
 /*------------------------Header----------------------------------------------*/
 
+nav{
+    background-color: yellow;
+    color: black;
+}
+
+.title{
+    float: left;
+    position: inherit;
+    display: inline-block;
+    font-size: 30px;
+    width: 250px;
+    font-weight: bold;
+    padding-right: 20px;
+    margin: 0;
+}
+
 header{
     background-color:yellow;
     border-bottom: solid;
+    height: 50px;
+}
+
+h1{
+    float: right;
+    width:450px;
 }
 
 .h2{
@@ -43,17 +64,48 @@ header{
     margin-top: 40px;
     font-size: 70px;
     padding-left: 2%;
+    color: black;
 }
 
 .drp-mnu{
     width:20px;
 }
 
+.navbar{
+    border:none;
+    border-radius: 0%;
+    margin-bottom: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:yellow;
+    border-bottom: solid
+}
+
+.navbar-toggle1{
+    icon("glyphicon glyphicon-menu-hamburger");
+    float: left;
+    font-size: larger;
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    margin-top: 5px;
+    background-color: transparent;
+    border: solid 1px rgb(200,200,200);
+    border-radius: 20%;
+}
+
+.navbar-toggle1:hover{
+    background-color: rgba(219,132,0,11);
+}
+
 .navbar-txt-white{
     display: inline-block;
     color: blue;
+    width: 100%;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 20px;
 }
 .navbar-txt-white:hover{
     background-color: yellow;
@@ -61,7 +113,14 @@ header{
 
 /*------------------------Buttons---------------------------------------------*/
 
-.btn-width{
+button{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.btn-st{
     width: 100%;
     margin-top: 10px;
     margin-right: 20px;
@@ -129,16 +188,14 @@ blockquote{
 
 
 @media screen and (max-width: 992px){
+    
     .news{
         background-color:#14C417;
         border: solid;
-        padding-left: 10px;
-        padding-right: 10px;
         border-radius: 2%;
         text-align: center;
         width: 75%;
         margin-left: 12.5%;
-        opacity:0.5;
     }
     
     .band{
@@ -147,13 +204,17 @@ blockquote{
     margin-top: 40px;
     font-size: 70px;
     padding-left: 2%;
-}
+        
+    }
 }
 
 @media screen and (max-width: 800px){
+    
+    
     .news{
         background-color:#14C417;
-        width: 100%;
+        width: 80%;
+        margin-left: 10%;
         margin-top: 5%;
         margin-bottom: 5%;
     }
@@ -182,9 +243,7 @@ blockquote{
     padding-left: 2%;
 }
 
-.blockquote{
-    opacity: none;
-}
+
     .news{
         border: solid;
         padding-left: 10px;
@@ -194,7 +253,6 @@ blockquote{
         width: 75%;
         margin-left: 12.5%;
         text-align: center;
-        opacity: 0.5;
             
     }
 }
