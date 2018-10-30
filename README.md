@@ -64,6 +64,14 @@ band name at top of page:
  be done when content added and styled. - 25/10/2018
  
 --------------------------------------------------------------------------------
+
+<strong>Social media links:</strong>
+
+After adding the links and styling them, i tested all of them to see if they
+opened to the social media websites they are ment to go to take you to. I tested
+this on desktop, tablet and mobile, there was no issue on either platform.
+ 
+--------------------------------------------------------------------------------
  
 <strong>Contributions:</strong>
  

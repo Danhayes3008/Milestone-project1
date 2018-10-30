@@ -14,6 +14,10 @@ body{
     color: black;
 }
 
+i{
+    color: black;
+}
+
 
 /*------------------------colors----------------------------------------------*/
 
@@ -28,25 +32,26 @@ body{
 /*------------------------Header----------------------------------------------*/
 
 nav{
-    background-color: yellow;
+    background-color: #B6BF0D;
     color: black;
 }
 
 .title{
-    float: left;
+    float: right;
     position: inherit;
     display: inline-block;
     font-size: 30px;
     width: 250px;
     font-weight: bold;
     padding-right: 20px;
-    margin: 0;
+    margin-right: 10px;
 }
 
-header{
-    background-color:yellow;
+.header{
+    background-color: #B6BF0D;
     border-bottom: solid;
     height: 50px;
+    margin-bottom: 30px;
 }
 
 h1{
@@ -61,14 +66,14 @@ h1{
 .band{
     display: inline-block;
     width: 100%;
-    margin-top: 40px;
     font-size: 70px;
+    margin-top: 0px;
     padding-left: 2%;
     color: black;
 }
 
 .drp-mnu{
-    width:20px;
+    width: 100%;
 }
 
 .navbar{
@@ -79,7 +84,7 @@ h1{
     top: 0;
     left: 0;
     width: 100%;
-    background-color:yellow;
+    background-color: #CAD419;
     border-bottom: solid
 }
 
@@ -97,19 +102,17 @@ h1{
 }
 
 .navbar-toggle1:hover{
-    background-color: rgba(219,132,0,11);
+    
 }
 
 .navbar-txt-white{
     display: inline-block;
     color: blue;
-    width: 100%;
+    width:20.%;
     font-weight: 600;
     font-size: 20px;
 }
-.navbar-txt-white:hover{
-    background-color: yellow;
-}
+
 
 /*------------------------Buttons---------------------------------------------*/
 
@@ -166,11 +169,17 @@ blockquote{
 
 
 /*-----------------------Footer-----------------------------------------------*/
+.copyright{
+    float:left;
+    margin-left: 5px;
+    width:45%;
+}
 
 
 .footer{
     border-top: solid;
-    background-color: yellow;
+    background-color: #8C8C8C;
+    padding-bottom: .5px;
     
 }
 
@@ -190,7 +199,7 @@ blockquote{
 @media screen and (max-width: 992px){
     
     .news{
-        background-color:#14C417;
+        background-color:#B6BF0D;
         border: solid;
         border-radius: 2%;
         text-align: center;
@@ -201,7 +210,6 @@ blockquote{
     .band{
     display: inline-block;
     width: 100%;
-    margin-top: 40px;
     font-size: 70px;
     padding-left: 2%;
         
@@ -212,7 +220,7 @@ blockquote{
     
     
     .news{
-        background-color:#14C417;
+        background-color:#B6BF0D;
         width: 80%;
         margin-left: 10%;
         margin-top: 5%;
@@ -222,7 +230,6 @@ blockquote{
     .band{
     display: inline-block;
     width: 100%;
-    margin-top: 40px;
     font-size: 70px;
     padding-left: 2%;
 }
@@ -238,7 +245,6 @@ blockquote{
     .band{
     display: inline-block;
     width: 100%;
-    margin-top: 40px;
     font-size: 70px;
     padding-left: 2%;
 }
@@ -248,11 +254,17 @@ blockquote{
         border: solid;
         padding-left: 10px;
         padding-right: 10px;
-        background-color: #12A615;
+        background-color: #B6BF0D;
         border-radius: 2%;
         width: 75%;
         margin-left: 12.5%;
         text-align: center;
             
     }
+    .band{
+    display: inline-block;
+    width: 100%;
+    font-size: 70px;
+    padding-left: 2%;
+}
 }

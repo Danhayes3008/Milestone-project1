@@ -11,47 +11,51 @@
         <title>Home|The Monkeys</title>
 	</head>
 	<body>
-		<header class="">
-			<nav class="navbar navbar-default">
-                <div class="visible-xs col-xs-2">
+		<header class="header">
+			<nav class="navbar navbar-default visible-xs">
+                <div class="visible-xs col-xs-12">
                     <button type="button" class="navbar-toggle1 collapsed" data-toggle="collapse" data-target="#navbar">
                         <span class="glyphicon glyphicon-menu-hamburger"></span>
                     </button>
+                    <p class="title text-center"><strong>The Monkees</strong></p>
                 </div>
-                <div class="col-xs-6">
-                <p class="visible-xs title"><strong>The Monkees</strong></p>
-                </div>
-                <div class="navbar-collapse collapse col-xs-12" id="navbar">
+                <!--<div class="visible-xs col-xs-6 hidden-lg">
+	                <p class="title text-center"><strong>The Monkees</strong></p>
+                </div>-->
+                <div class="navbar-collapse collapse col-xs-12 col-md-6" id="navbar">
                     <ul class="nav navbar-nav">
-                        <li class="active1 "><a href="index.html"><p class="navbar-txt-white"><i class="glyphicon glyphicon-home i"></i>Home</p></a></li>
-                        <li><a href="resume.html"><p class="navbar-txt-white"><i class="glyphicon glyphicon-pencil i"></i>Resume</p></a></li>
-                        <li><a href="download.html"><p class="navbar-txt-white"><i class="glyphicon glyphicon-download-alt i"></i>Download</p></a></li>
-                        <li><a href="contact.html"><p class="navbar-txt-white"><i class="glyphicon glyphicon-envelope i"></i>Contact</p></a></li>
-                        <li><a href=""><p class="navbar-txt-white"><i class="fa fa-github github i"></i>Github</p></a></li>
+                        <li class="navbar-txt-white"><a href="index.html"><p><i class="glyphicon glyphicon-home i"></i>Home</p></a></li>
+                        <li class="navbar-txt-white"><a href="resume.html"><p><i class="glyphicon glyphicon-pencil i"></i>Resume</p></a></li>
+                        <li class="navbar-txt-white"><a href="download.html"><p><i class="glyphicon glyphicon-download-alt i"></i>Download</p></a></li>
+                        <li class="navbar-txt-white"><a href="contact.html"><p><i class="glyphicon glyphicon-envelope i"></i>Contact</p></a></li>
+                        <li class="navbar-txt-white"><a href="events.html"><p><i class="glyphicon glyphicon-calendar i"></i>Events</p></a></li>
+                        
                     </ul>
                 </div>
-               
             </nav>
-			
-			<div class="row visible-lg">
-				<div class="col-lg-1 band text-center">
-					<ul class="nav navbar-nav navbar-txt-white">
-						<li><p class="p black">The Monkees</p></li>
-						<li class="navbar-txt-white"><a href="index.html"><p>Home</p></a></li>
-						<li class="navbar-txt-white"><a href="band.html"><p>Band</p></a></li>
-						<li class="navbar-txt-white"><a href="media.html">Media</p></a></li>
-						<li class="navbar-txt-white"><a href="events.html">Events</p></a></li>
-						<li class="navbar-txt-white"><a href="contact.html">Contact Us</p></a></li>
-			        </ul>
+            
+            <nav class="navbar navbar-default visible-md visible-sm visible-lg">
+            	<div class="row ">
+					<div class="col-lg-2 band text-center">
+						<ul class="nav navbar-nav navbar-txt-white">
+							<li><p class="p black">The Monkees</p></li>
+							<li class="navbar-txt-white"><a href="index.html"><p>Home</p></a></li>
+							<li class="navbar-txt-white"><a href="band.html"><p>Band</p></a></li>
+							<li class="navbar-txt-white"><a href="media.html">Media</p></a></li>
+							<li class="navbar-txt-white"><a href="events.html">Events</p></a></li>
+							<li class="navbar-txt-white"><a href="contact.html">Contact Us</p></a></li>
+				        </ul>
+					</div>
 				</div>
 			</div>
+            </nav>
 		</header>
 		<artical>
 			<section class="container-fluid">
 				<div class="row buttons">
 					<div>
 						<div class="site-wide-alert alert alert-warning hidden-xs">
-	                        <p class="black"><strong>Available for Bookings!</strong> Hire the Monkees now  for social events. <a href="">Click here</a> for more details</p>
+	                        <p class="black"><strong>Available for Bookings!</strong> Hire the Monkees now  for social events. <a href="contact.html">Click here</a> for more details</p>
 	                    </div>
 	                    <div class="news">
 							<h2 class="text-center white-col"><strong>News:</strong></h2>
@@ -92,12 +96,15 @@
 		<footer class="footer">
 			<section class="container-fluid">
 				<div class="row pad-top">
-					<ul class="list-inline social-link s-links">
-						<li><a target="_blank" href="https://www.facebook.com/TheMonkees/"><i class="fa fa-facebook-square" style="font-size:26px"></a></i></li>
-						<li><a target="_blank" href=""><i class="fa fa-skype" style="font-size:26px"></a></i></li>
-						<li><a target="_blank" href=""><i class="fa fa-twitter" style="font-size:26px"></a></i></li>
-						<li><a target="_blank" href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA"><i class="fa fa-youtube" style="font-size:26px"></a></i></li>
-					</ul>
+					<div class="copyright black"><p>© 2018 - Developed by Daniel Hayes</p></div>
+					<div>
+						<ul class="list-inline social-link s-links">
+							<li><a target="_blank" href="https://www.facebook.com/TheMonkees/" target="_blank"><i class="fa fa-facebook-square" style="font-size:26px"></a></i></li>
+							<li><a target="_blank" href="https://twitter.com/TheMonkees?s=17" target="_blank"><i class="fa fa-twitter" style="font-size:26px"></a></i></li>
+							<li><a target="_blank" href="https://www.instagram.com/themonkees/" target="_blank"><i class="fa fa-instagram" style="font-size:26px"></a></i></li>
+							<li><a target="_blank" href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA" target="_blank"><i class="fa fa-youtube" style="font-size:26px"></a></i></li>
+						</ul>
+					</div>
 				</div>
 			</section>
 		</footer>
