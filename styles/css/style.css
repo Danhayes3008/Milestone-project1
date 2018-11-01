@@ -172,6 +172,20 @@ blockquote{
     font-size: 15px;
 }
 
+.form{
+    font-family: sans-serif;
+}
+
+.img1{
+    height: 100px;
+    float: left;
+}
+
+.img2{
+    height:100px;
+    float: right;
+}
+
 
 /*-----------------------Footer-----------------------------------------------*/
 .copyright{
