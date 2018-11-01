@@ -167,6 +167,11 @@ blockquote{
     
 }
 
+.banner{
+    font-weight: 300;
+    font-size: 15px;
+}
+
 
 /*-----------------------Footer-----------------------------------------------*/
 .copyright{
@@ -206,6 +211,20 @@ blockquote{
         width: 75%;
         margin-left: 12.5%;
     }
+    
+    
+    .news2 {
+        border: solid;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #b6bf0d;
+        border-radius: 2%;
+        width: 70%;
+        margin-left: 15%;
+        margin-bottom: 25%;
+        text-align: center;
+    }
+
     
     .band{
     display: inline-block;
@@ -261,6 +280,21 @@ blockquote{
         text-align: center;
             
     }
+    
+    
+    .news2 {
+        border: solid;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #b6bf0d;
+        border-radius: 2%;
+        width: 40%;
+        margin-left: 30%;
+        margin-top: 11%;
+        margin-bottom: 10%;
+        text-align: center;
+    }
+
     .band{
     display: inline-block;
     width: 100%;

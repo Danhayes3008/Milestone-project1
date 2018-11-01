@@ -69,9 +69,15 @@ band name at top of page:
 
 After adding the links and styling them, i tested all of them to see if they
 opened to the social media websites they are ment to go to take you to. I tested
-this on desktop, tablet and mobile, there was no issue on either platform.
+this on desktop, tablet and mobile, there was no issue on either platform. 29/10/2018
  
 --------------------------------------------------------------------------------
+
+<strong>Bug hunt:</strong>
+
+used the developers tools on microsoft edge and discovered a few misplaced tags.
+This has been fixed, after looking for more bugs i could not find anymore errors
+witht the website. - 1/11/2018
  
 <strong>Contributions:</strong>
  
