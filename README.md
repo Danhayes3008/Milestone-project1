@@ -1,3 +1,6 @@
+Website status: <strong>Work in progress</strong>
+
+
 <strong>Website's purpose:</strong>
 
 The purpose of this website is to inform fans of the monkees band of latest news
