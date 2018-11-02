@@ -1,6 +1,7 @@
 body{
     background: url('../../media/images/monkees.jpg');
     background-repeat: no-repeat;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     background-position: fixed;

@@ -63,6 +63,9 @@ band name at top of page:
  added and tested mobile first menu-bar to make sure it worked. more testing to 
  be done when content added and styled. - 25/10/2018
  
+ discovered wrong names on the buttons and links to other webpages. this has
+ been fixed. - 2/11/2018
+ 
 --------------------------------------------------------------------------------
 
 <strong>Social media links:</strong>
