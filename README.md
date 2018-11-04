@@ -97,3 +97,9 @@ Received help from Robin Zigmond on the slack general chat room in regards to an
 error i was having with setting an image as a background. After sharing some of
 my code and screen-shot of my file directory, he pointed out that i forgot to add
 ../../ at front of the name for my image to be used.
+
+all events information has came from <a href="https://www.facebook.com/pg/TheMonkees/events/?ref=page_internal">The Monkees</a>
+Facebook page. all rights to the content belong to Monkees.
+
+Band members linked to there indevidual wikki links page. with information on the band page
+added to make it look better than just having there name's and pictures.
