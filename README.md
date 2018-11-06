@@ -76,6 +76,9 @@ band name at top of page:
 After adding the links and styling them, i tested all of them to see if they
 opened to the social media websites they are ment to go to take you to. I tested
 this on desktop, tablet and mobile, there was no issue on either platform. 29/10/2018
+
+made some alterations so that the footer with the social media icons sit at the bottom
+of the screen. footer positioned correctly when tested. 6/11/2018
  
 --------------------------------------------------------------------------------
 

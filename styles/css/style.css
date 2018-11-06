@@ -4,7 +4,7 @@ body{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-position: fixed;
+    background-attachment: fixed;
     font-family: 'Shadows Into Light', sans-serif;
 }
 
@@ -161,11 +161,9 @@ button{
 
 /*------------------------main Section----------------------------------------*/
 
-blockquote{
-    background-color: #ff0000;
-    border: solid;
-    opacity: 1;
-    
+hr{
+    width: 50px;
+    background-color: black;
 }
 
 .banner{
@@ -201,6 +199,8 @@ blockquote{
 }
 
 
+
+
 /*-----------------------Footer-----------------------------------------------*/
 .copyright{
     float:left;
@@ -210,6 +210,9 @@ blockquote{
 
 
 .footer{
+    position: fixed;
+    top: 880px;
+    width: 100%;
     border-top: solid;
     background-color: #8C8C8C;
     padding-bottom: .5px;
@@ -232,25 +235,26 @@ blockquote{
 @media screen and (max-width: 992px){
     
     .news{
-        background-color:#B6BF0D;
-        border: solid;
-        border-radius: 2%;
+        background-color: transparent;
+        
         text-align: center;
         width: 75%;
         margin-left: 12.5%;
+        font-family: sans-serif;
     }
     
     
     .news2 {
-        border: solid;
+        
         padding-left: 20px;
         padding-right: 20px;
         background-color: #b6bf0d;
-        border-radius: 2%;
+        
         width: 70%;
         margin-left: 15%;
         margin-bottom: 25%;
         text-align: center;
+        font-family: sans-serif;
     }
     
     .img3{
@@ -289,12 +293,23 @@ blockquote{
     
     
     .news{
-        background-color:#B6BF0D;
+        background-color:transparent;
         width: 80%;
         margin-left: 10%;
         margin-top: 5%;
         margin-bottom: 5%;
+        font-family: sans-serif;
     }
+    
+    .footer{
+    position: fixed;
+    top: 660px;
+    width: 100%;
+    border-top: solid;
+    background-color: #8C8C8C;
+    padding-bottom: .5px;
+    
+}
     
     .band{
     display: inline-block;
@@ -339,14 +354,15 @@ blockquote{
 
 
     .news{
-        border: solid;
+        
         padding-left: 10px;
         padding-right: 10px;
         background-color: #B6BF0D;
-        border-radius: 2%;
-        width: 75%;
-        margin-left: 12.5%;
+        
+        width: 50%;
+        margin-left: 25%;
         text-align: center;
+        font-family: sans-serif;
             
     }
     
@@ -362,6 +378,7 @@ blockquote{
         margin-top: 11%;
         margin-bottom: 10%;
         text-align: center;
+        font-family: sans-serif;
     }
     
     .news2 {
@@ -375,6 +392,7 @@ blockquote{
         margin-top: 11%;
         margin-bottom: 10%;
         text-align: center;
+        font-family: sans-serif;
     }
 
     .band{
