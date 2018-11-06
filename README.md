@@ -5,7 +5,9 @@ Website status: <strong>Work in progress</strong>
 
 The purpose of this website is to inform fans of the monkees band of latest news
 music and events for the band. there will also be a section where people can
-contact the band to book them for events such as weddings, charity events etc.
+contact the band to book them for events such as weddings, charity events etc,
+view pictures and listen to some of there songs. There will also be a page for
+information on the band members.
 
 
 <strong>tools:</strong>
