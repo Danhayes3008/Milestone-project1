@@ -1,4 +1,4 @@
-body{
+/*body{
     background: url('../../media/images/monkees.jpg');
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -6,7 +6,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Shadows Into Light', sans-serif;
-}
+}*/
 
 .i{
     font-size: 12px;
@@ -37,12 +37,12 @@ i{
 /*------------------------Header----------------------------------------------*/
 
 nav{
-    background-color: #B6BF0D;
+    background-color: #D67104;
     color: black;
 }
 
 .title{
-    float: right;
+    float: left;
     position: inherit;
     display: inline-block;
     font-size: 30px;
@@ -53,7 +53,7 @@ nav{
 }
 
 .header{
-    background-color: #B6BF0D;
+    background-color: #D67104;
     border-bottom: solid;
     height: 50px;
     margin-bottom: 30px;
@@ -89,7 +89,7 @@ h1{
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #CAD419;
+    background-color: #D67104;
     border-bottom: solid
 }
 
@@ -102,7 +102,7 @@ h1{
     margin-right: 5px;
     margin-top: 5px;
     background-color: transparent;
-    border: solid 1px rgb(200,200,200);
+    border: solid 1px rgb(0,0,0);
     border-radius: 20%;
 }
 
@@ -112,10 +112,11 @@ h1{
 
 .navbar-txt-white{
     display: inline-block;
-    color: blue;
+    color: black;
     width:20.%;
     font-weight: 600;
     font-size: 20px;
+    margin-top: 10px;
 }
 
 
@@ -203,11 +204,15 @@ hr{
 }
 
 .news{
-    background-color: #000000;
+    background-color: #D67104;
 }
 
 .news2{
-    background-color: #000000;
+    background-color: #D67104;
+}
+
+video{
+    width: 75%;
 }
 
 
@@ -243,9 +248,18 @@ hr{
 
 @media screen and (max-width: 992px){
     
+    body{
+        background: url('../../media/images/monkees.jpg');
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
     .news{
-        
-        
+        border: solid 1px;
+        border-radius: 5%;
         text-align: center;
         width: 75%;
         margin-left: 12.5%;
@@ -254,7 +268,8 @@ hr{
     
     
     .news2 {
-        
+        border: solid 1px;
+        border-radius: 5%;
         padding-left: 20px;
         padding-right: 20px;
         
@@ -285,7 +300,7 @@ hr{
 }
 
 .pic2{
-    width: 420px;
+    width: 50%;
      margin-bottom: 5px;
     margin-top: 5px;
 }
@@ -302,7 +317,9 @@ hr{
 
 @media screen and (max-width: 800px){
     
-    
+    body{
+        background-color: #BD3B2A;
+    }
     .news{
         
         width: 80%;
@@ -335,13 +352,22 @@ hr{
 }
 
 .pic2{
-    width: 420px;
+    width: 325px;
      margin-bottom: 5px;
     margin-top: 5px;
 }
 }
 
 @media (min-width: 993px){
+    
+    body{
+        background: url('../../media/images/monkees.jpg');
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+    }
 
     .main-section{
     padding-right:10px;
@@ -376,9 +402,8 @@ hr{
         
         padding-left: 10px;
         padding-right: 10px;
-        background-color: #000000;
-        width: 40%;
-        margin-left: 30%;
+        width: 80%;
+        margin-left: 10%;
         margin-top: 11%;
         margin-bottom: 10%;
         text-align: center;
@@ -424,7 +449,7 @@ hr{
 }
 
 .pic2{
-    width: 520px;
+    width: 75%;
      margin-bottom: 5px;
     margin-top: 5px;
 }
