@@ -73,7 +73,6 @@ h1{
     width: 100%;
     font-size: 70px;
     margin-top: 0px;
-    padding-left: 2%;
     color: black;
 }
 
@@ -339,7 +338,6 @@ audio{
     display: inline-block;
     width: 100%;
     font-size: 70px;
-    padding-left: 2%;
         
     }
     
@@ -384,7 +382,6 @@ audio{
     display: inline-block;
     width: 100%;
     font-size: 70px;
-    padding-left: 2%;
 }
 
 
@@ -428,14 +425,6 @@ audio{
         font-family: sans-serif;
     }
 
-    .band{
-    display: inline-block;
-    width: 100%;
-    font-size: 70px;
-    padding-left: 2;
-        
-    }
-    
     .img3{
         margin-left: 30%;
         width: 150px;
