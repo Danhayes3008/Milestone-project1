@@ -89,7 +89,8 @@ h1{
     left: 0;
     width: 100%;
     background-color: #D67104;
-    border-bottom: solid
+    border-bottom: solid;
+    z-index: 1;
 }
 
 .navbar-toggle1{
