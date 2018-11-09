@@ -213,7 +213,7 @@ hr{
 
 .band2{
     background-color: #D67104;
-    padding-bottom: 350px;
+    padding-bottom: 250px;
     width: 70%;
     margin-left: 15%;
 }
@@ -310,9 +310,10 @@ audio{
 }
 
 .pic3{
-    width: 50%;
+    width: 90%;
      margin-bottom: 5px;
     margin-top: 5px;
+    margin-left: 5%;
 }
 
     
@@ -322,6 +323,13 @@ audio{
     font-size: 70px;
     padding-left: 2%;
         
+    }
+    
+     .band2{
+    background-color: #D67104;
+    padding-bottom: 100px;
+    width: 70%;
+    margin-left: 15%;
     }
 }
 
@@ -362,7 +370,7 @@ audio{
     
     .band2{
     background-color: #D67104;
-    padding-bottom: 350px;
+    padding-bottom: 170px;
     width: 70%;
     margin-left: 15%;
     }
@@ -488,8 +496,9 @@ audio{
 }
 
 .pic3{
-    width: 75%;
+    width: 90%;
      margin-bottom: 5px;
     margin-top: 5px;
+    margin-left: 5%;
 }
 }
