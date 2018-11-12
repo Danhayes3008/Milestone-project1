@@ -370,14 +370,14 @@ audio{
     
     .band2{
     background-color: #D67104;
-    padding-bottom: 170px;
+    padding-bottom: 340px;
     width: 70%;
     margin-left: 15%;
     }
     
     .img1{
-        width: 70%;
-        margin-left: 15%;
+        width: 90%;
+        margin-left: 5%;
     }
     
     .img3{
@@ -429,7 +429,13 @@ audio{
     display: inline-block;
     width: 100%;
     font-size: 70px;
-}
+    }
+    
+    .band2{
+        width: 50%;
+        margin-left: 25%;
+        padding-bottom: 340px;
+    }
 
 
     .news{
