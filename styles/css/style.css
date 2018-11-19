@@ -468,12 +468,13 @@ audio{
     
     .band2{
         width: 50%;
+        height: 1700px;
         margin-left: 25%;
         padding-bottom: 40px;
     }
     .member{
-        width: 45%;
-        padding-left: 5%;
+        width: 75%;
+        padding-left: 15%;
     }
     .member2{
         height: 200px;
