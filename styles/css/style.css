@@ -434,7 +434,7 @@ audio{
 }
 }
 
-@media (min-width: 993px){
+@media screen and (min-width: 993px){
     
     body{
         background: url('../../media/images/monkees.jpg');
@@ -468,13 +468,13 @@ audio{
     
     .band2{
         width: 50%;
-        height: 1700px;
+        
         margin-left: 25%;
         padding-bottom: 40px;
     }
     .member{
-        width: 75%;
-        padding-left: 15%;
+        width: 45%;
+        padding-left: 5%;
     }
     .member2{
         height: 200px;
@@ -566,8 +566,16 @@ audio{
 }
 }
 
-@media (max-width: 667px){
+@media screen and (max-width: 667px){
     body{
-        background-color: #C26602;
+        background: url('../../media/images/monkees.jpg');
+        background-repeat: no-repeat;
+        -webkit-background-size: length_y;
+        -moz-background-size: length_y;
+        -o-background-size:length_y;
+        background-size: length_y;
+        background-attachment: fixed;
+        background-color: grey;
     }
+    
 }
