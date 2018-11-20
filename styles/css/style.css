@@ -300,6 +300,10 @@ audio{
         font-family: sans-serif;
     }
     
+    .nav{
+        font-size: 20px;
+    }
+    
     .contact1 {
         border: solid 1px;
         border-radius: 5%;
@@ -307,9 +311,14 @@ audio{
         padding-right: 20px;
         height: 90%;
         width: 70%;
+        margin-top: 20%;
         margin-left: 15%;
         margin-bottom: 25%;
         text-align: center;
+    }
+    
+    .footer{
+        margin-top: 14%;
     }
     
     .img3{
@@ -346,7 +355,7 @@ audio{
     
      .band2{
     background-color: #D67104;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     width: 70%;
     margin-left: 15%;
     }
@@ -597,9 +606,19 @@ audio{
         background-color: grey;
     }
     
+    .band2{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
     .contact1{
         width: 70%;
         margin-left: 15%;
+        margin-bottom: 10%;
+    }
+    
+    .footer{
+        margin-top: 10%;
     }
     
     .news2{
@@ -613,6 +632,6 @@ audio{
     }
     
     .member2{
-        height: 400px;
+        height: 300px;
     }
 }
