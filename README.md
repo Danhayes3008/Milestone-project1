@@ -71,6 +71,7 @@ band name at top of page:
  discovered wrong names on the buttons and links to other webpages. this has
  been fixed. - 2/11/2018
  
+ altered the monkees.jpg image so the background to fix the background image for mobile view. 20.11.2018
 --------------------------------------------------------------------------------
 
 <strong>Social media links:</strong>
