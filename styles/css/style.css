@@ -359,6 +359,10 @@ audio{
     width: 70%;
     margin-left: 15%;
     }
+    
+    .member{
+        height: 100%;
+    }
 }
 
 @media screen and (max-width: 800px){
@@ -655,5 +659,21 @@ audio{
     
     .member2{
         height: 300px;
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (min-width: 1025px){
+    
+    .artical{
+        margin-top: 10%;
+    }
+    
+    .band2{
+        height: 1200px;
+    }
+    
+    .footer{
+        margin-top: 1%;
     }
 }
