@@ -306,6 +306,21 @@ audio{
         width: 70%;
         margin-left: 15%;
     }
+    
+    .news2{
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    .contact1{
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .note{
+        font-weight: 500;
+        font-size: small;
+    }
 }
 
 @media (min-width: 668px) and (max-width: 767px){
