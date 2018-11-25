@@ -264,7 +264,7 @@ audio{
 
 /*-----------------------Media Quaries----------------------------------------*/
 
-@media screen and (max-width: 667px){
+@media (max-width: 667px){
     body{
         background: url('../../media/images/monkees.jpg');
         background-repeat: no-repeat;
@@ -282,6 +282,7 @@ audio{
     
     .band2{
         height: 1620px;
+        width: 75%;
         background-color: transparent;
         color: white;
         font-weight: 500;
@@ -300,9 +301,14 @@ audio{
         font-weight: 500;
         color: white;
     }
+    
+    .news{
+        width: 70%;
+        margin-left: 15%;
+    }
 }
 
-@media screen and (min-width: 668px) and (max-width: 767px){
+@media (min-width: 668px) and (max-width: 767px){
     
     body{
         background: url('../../media/images/monkees.jpg');
@@ -410,7 +416,7 @@ audio{
     }
 }
 
-@media screen (min-width: 768px) and (max-width: 800px){
+@media (min-width: 768px) and (max-width: 800px){
     
     body{
         background-color: #BD3B2A;
@@ -505,13 +511,14 @@ audio{
     }
 }
 
-@media screen (min-width: 801px) and (min-width: 993px){
+@media (min-width: 801px) and (min-width: 993px){
     
     body{
         background: url('../../media/images/monkees.jpg');
         background-repeat: no-repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
+        -o-background-size: cover;
         background-size: cover;
         background-attachment: fixed;
     }
@@ -528,8 +535,6 @@ audio{
     .img1{
         height: 100%;
     }
-    
-    
     
     .band{
     display: inline-block;
@@ -550,15 +555,11 @@ audio{
     .member2{
         height: 200px;
     }
-    
-
 
     .news{
         
         padding-left: 10px;
         padding-right: 10px;
-        
-        
         width: 50%;
         margin-left: 25%;
         text-align: center;
@@ -621,27 +622,28 @@ audio{
     height: 193px;
     margin-bottom: 5px;
     margin-top: 5px;
+        
+    }
+
+    .pic2{
+        width: 520px;
+         margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    
+    .pic3{
+        width: 90%;
+         margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 5%;
+    }
+
+    .footer{
+        height: 90%;
+    }
 }
 
-.pic2{
-    width: 520px;
-     margin-bottom: 5px;
-    margin-top: 5px;
-}
-
-.pic3{
-    width: 90%;
-     margin-bottom: 5px;
-    margin-top: 5px;
-    margin-left: 5%;
-}
-
-.footer{
-    height: 90%;
-}
-}
-
-@media screen and (min-width: 994px) and (max-width: 1024px){
+@media (min-width: 994px) and (max-width: 1024px){
     
     body{
         background: url('../../media/images/monkees.jpg');
@@ -692,7 +694,7 @@ audio{
 
 }
 
-@media screen and (min-width: 1025px){
+@media (min-width: 1025px){
     
     .artical{
         margin-top: 10%;
