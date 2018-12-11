@@ -450,6 +450,18 @@ audio{
         background-attachment: fixed;
     }
     
+    .contact1{
+        margin-top: 100px;
+    }
+    
+    .footer{
+        margin-top: 160px;
+    }
+    
+    .bc1{
+        background-color: black;
+    }
+    
     .video{
         width: 100%;
         background-color: black;
@@ -533,8 +545,8 @@ audio{
     }
     
     .pic1{
-    width: 209px;
-    height: 193px;
+    width: 159px;
+    height: 153px;
     margin-bottom: 5px;
     margin-top: 5px;
         
