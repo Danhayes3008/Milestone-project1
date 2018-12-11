@@ -323,7 +323,7 @@ audio{
     }
 }
 
-@media (min-width: 668px) and (max-width: 767px){
+@media screen and (min-width: 668px) and (max-width: 767px){
     
     body{
         background: url('../../media/images/monkees.jpg');
@@ -434,7 +434,12 @@ audio{
 @media (min-width: 768px) and (max-width: 800px){
     
     body{
-        background-color: #BD3B2A;
+        background: url('../../media/images/monkees.jpg');
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
     }
     .news{
         
@@ -710,6 +715,15 @@ audio{
 }
 
 @media (min-width: 1025px){
+    
+     body{
+        background: url('../../media/images/monkees.jpg');
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+    }
     
     .artical{
         margin-top: 10%;
