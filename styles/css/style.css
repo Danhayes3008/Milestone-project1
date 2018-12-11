@@ -26,6 +26,10 @@ i{
     color:#000000;
 }
 
+.black-col{
+    color:#000000;
+}
+
 .white-col{
     color: #ffffff;
 }
@@ -502,7 +506,7 @@ audio{
     
     .band2{
     background-color: #D67104;
-    height: 2500px;
+    height: 1030px;
     width: 70%;
     margin-left: 15%;
     }
