@@ -280,8 +280,12 @@ audio{
         background-color: grey;
     }
     
+    .btn-mrg{
+        margin-left: 25%;
+    }
+    
     h4{
-       color: white; 
+       color: black; 
     }
     
     .band2{
