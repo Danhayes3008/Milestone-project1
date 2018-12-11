@@ -291,8 +291,8 @@ audio{
     .band2{
         height: 1620px;
         width: 75%;
-        background-color: transparent;
-        color: white;
+        background-color: #D67104;
+        color: black;
         font-weight: 500;
     }
     
