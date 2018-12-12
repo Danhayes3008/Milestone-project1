@@ -294,6 +294,7 @@ audio{
         background-color: #D67104;
         color: black;
         font-weight: 500;
+        margin-left: 10%;
     }
     
     .img1{
@@ -317,12 +318,12 @@ audio{
     
     .news2{
         width: 80%;
-        margin-left: 10%;
+        margin-left: 8%;
     }
     
     .contact1{
         width: 70%;
-        margin-left: 15%;
+        margin-left: 10%;
     }
     
     .note{
@@ -575,6 +576,10 @@ audio{
         background-size: cover;
         background-attachment: fixed;
     }
+    
+    .bc1{
+        background-color: black;
+    }
 
     .main-section{
     padding-right:10px;
@@ -768,5 +773,9 @@ audio{
     
     .footer{
         margin-top: 1%;
+    }
+    
+    .bnd{
+        margin-left: 10%;
     }
 }
