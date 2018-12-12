@@ -1,12 +1,6 @@
-/*body{
-    background: url('../../media/images/monkees.jpg');
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    background-attachment: fixed;
+body{
     font-family: 'Shadows Into Light', sans-serif;
-}*/
+}
 
 .i{
     font-size: 12px;
@@ -180,9 +174,6 @@ hr{
     background-color: black;
 }
 
-nav ul li a{
-    padding-left: 0;
-}
 
 .banner{
     font-weight: 300;
