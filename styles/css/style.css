@@ -180,6 +180,10 @@ hr{
     background-color: black;
 }
 
+nav ul li a{
+    padding-left: 0;
+}
+
 .banner{
     font-weight: 300;
     font-size: 15px;
@@ -280,6 +284,11 @@ audio{
         background-color: grey;
     }
     
+    .navpad{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    
     .btn-mrg{
         margin-left: 25%;
     }
@@ -342,6 +351,12 @@ audio{
         background-size: cover;
         background-attachment: fixed;
     }
+    
+    .navpad{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    
     .aad{
         height: 2500px;
     }
@@ -453,6 +468,16 @@ audio{
         -moz-background-size: cover;
         background-size: cover;
         background-attachment: fixed;
+    }
+    
+    .apad{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .navpad{
+        padding-left: 0%;
+        padding-right: 0%;
     }
     
     .contact1{
@@ -575,6 +600,15 @@ audio{
         -o-background-size: cover;
         background-size: cover;
         background-attachment: fixed;
+    }
+    
+    .navpad{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    
+    .title{
+        width:280px;
     }
     
     .bc1{
@@ -714,6 +748,23 @@ audio{
         background-color: grey;
     }
     
+    .navpad{
+        padding-left: 0%;
+        padding-right: 0%;
+        width: 143px;
+    }
+    
+    .apad{
+        padding-left: 0px;
+    }
+    
+    .title{
+        margin-left: 1%;
+        width: 274px;
+        padding-right: 0px;
+        margin-right: 0px;
+    }
+    
     .band2{
         padding-top: 20px;
         padding-bottom: 20px;
@@ -763,12 +814,17 @@ audio{
         background-attachment: fixed;
     }
     
+    .title{
+        margin-left: 5%;
+        width: 300px;
+    }
+    
     .artical{
         margin-top: 10%;
     }
     
     .band2{
-        height: 1200px;
+        height: 1100px;
     }
     
     .footer{
