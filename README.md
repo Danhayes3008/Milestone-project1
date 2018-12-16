@@ -38,8 +38,7 @@ submit the message, otherwise they will be given a message telling them to fill
 in the indicated sections. Currently this does not send a message as I have not
 learned how to do this yet.
 
-<a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target="
-_blank">Demo</a>
+<a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target="_blank">Demo</a>
 
 
 <strong>Technology’s:</strong>
