@@ -52,6 +52,7 @@ learned how to do this yet.
 <a href=”http://getbootstrap.com”><strong>Bootstrap</strong></a> - I used Bootstrap to give the 
 website a basic styling, suported with my own css file for a personal look.
 
+-----------------------------------------------------------
 
 <strong>Testing:</strong>
 
@@ -69,6 +70,8 @@ they all opened a new window there pages with no issues showed up.
 <strong>.</strong> tested all the navigation buttons at top of the page, no
 issues showed up.
 
+
+
 <strong>Band Page:</strong>
 
 <strong>.</strong> clicked on the link in the banner at top of the page to be
@@ -82,6 +85,22 @@ they all opened a new window there pages with no issues showed up.
 
 <strong>.</strong> tested all the navigation buttons at top of the page, no
 issues showed up.
+
+<strong>Media Page:</strong>
+
+<strong>.</strong> clicked on the link in the banner at top of the page to be
+sent to the contact page.
+
+<strong>.</strong> Tested all the music on the page, including the same video
+that is on the Home Page. no issues showed up. 
+
+<strong>.</strong> tested all the social media links at the bottom of the page,
+they all opened a new window there pages with no issues showed up.
+
+<strong>.</strong> tested all the navigation buttons at top of the page, no
+issues showed up.
+
+---
 
 <strong>Bug hunt:</strong>
 
