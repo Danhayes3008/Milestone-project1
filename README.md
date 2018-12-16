@@ -8,7 +8,7 @@ contact the band to book them for events such as weddings, charity events, view
 pictures and listen to some of there songs. There will also be a page for
 information on the band members.
  
-
+-----------------------------------------------------------
 
 
 <strong>UX:</strong>
@@ -20,40 +20,76 @@ navigate allowing the user to easily find the content there after. In the bottom
 of every page are links to there social media pages and there youtube page so
 that users can find information that Is not on the website. 
 
-Features:
+-----------------------------------------------------------
 
 <strong>Current features:</strong>
 
-Wiki links - On the band page each picture and band member name links the the
+<strong>Wiki links</strong> - On the band page each picture and band member name links the the
 members own wikipedia page. I have done this because it would be much easier to
 do so than create web pages for each band member.
 
-Social media links - I have included links to the Monkees facebook, youtube,
+<strong>Social media links</strong> - I have included links to the Monkees facebook, youtube,
 instagram and twitter pages for the users to find more content that is not
 included in this website.
 
-Contact page - The contact us page allows users to message the band to book them
+<strong>Contact page</strong> - The contact us page allows users to message the band to book them
 for events. It requires the user to provide there name and e-mail address to
 submit the message, otherwise they will be given a message telling them to fill
 in the indicated sections. Currently this does not send a message as I have not
 learned how to do this yet.
 
-<a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target="_blank">Demo</a>
+-----------------------------------------------------------
 
+<a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target=
+"_blank"><strong>Demo</strong></a>
+
+-----------------------------------------------------------
 
 <strong>Technology’s:</strong>
 
 
 
-<a href=”http://getbootstrap.com”>Bootstrap</a> - I used Bootstrap to give the 
+<a href=”http://getbootstrap.com”><strong>Bootstrap</strong></a> - I used Bootstrap to give the 
 website a basic styling, suported with my own css file for a personal look.
 
+
+<strong>Testing:</strong>
+
+<strong>Home Page:</strong>
+
+<strong>.</strong> clicked on the link in the banner at top of the page to be
+sent to the contact page.
+
+<strong>.</strong> ran the music video on the home page in desktop, no issues
+showed up.
+
+<strong>.</strong> tested all the social media links at the bottom of the page,
+they all opened a new window there pages with no issues showed up.
+
+<strong>.</strong> tested all the navigation buttons at top of the page, no
+issues showed up.
+
+<strong>Band Page:</strong>
+
+<strong>.</strong> clicked on the link in the banner at top of the page to be
+sent to the contact page.
+
+<strong>.</strong> Tested all the links for the band members wikipedia pages, no
+issues showed up. 
+
+<strong>.</strong> tested all the social media links at the bottom of the page,
+they all opened a new window there pages with no issues showed up.
+
+<strong>.</strong> tested all the navigation buttons at top of the page, no
+issues showed up.
 
 <strong>Bug hunt:</strong>
 
 I used the developers tools on Microsoft edge and discovered a few misplaced tags.
 This has been fixed, after looking for more bugs i could not find any more errors
 with the website. - 1/11/2018
+
+-----------------------------------------------------------
  
 <strong>Contributions:</strong>
  
