@@ -129,12 +129,12 @@ issues showed up
 <strong>Bug hunt:</strong>
 
 I used the developers tools on Microsoft edge and discovered a few misplaced tags.
-This has been fixed, after looking for more bugs i could not find any more errors
-with the website.
+This has been fixed. On mobile and tablet the background image gets stretched, 
+this will be fixed at a later date.
 
 -----------------------------------------------------------
  
-<strong>Contributions:</strong>
+<strong>Credit:</strong>
  
 After researching the Monkees on Google i discovered from a
 <a href="https://www.monkees.com/news?page=1">the Monkees</a>
@@ -142,11 +142,6 @@ website that a Christmas album has been released. No text was copied, but wanted
 to give recognition to this website for the latest news on the band that i have
 found. This also includes dates for Michael Nesmith and the First National Band
 Redux, and a super deluxe edition album.
-
-Received help from Robin Zigmond on the slack general chat room in regards to an
-error i was having with setting an image as a background. After sharing some of
-my code and screen-shot of my file directory, he pointed out that i forgot to
-add ../../ at front of the name for my image to be used.
 
 all events information has came from <a href="https://www.facebook.com/pg/
 TheMonkees/events/?ref=page_internal">The Monkees</a>
@@ -158,3 +153,15 @@ and the count-basie-exteriornighttime1.jpg image belongs to <a href="http://www.
 
 Band members linked to there indevidual wikki links page. with information on the band page
 added to make it look better than just having there name's and pictures.
+
+<strong>Help:</strong>
+
+Received help from Robin Zigmond on the slack general chat room in regards to an
+error i was having with setting an image as a background. After sharing some of
+my code and screen-shot of my file directory, he pointed out that i forgot to
+add ../../ at front of the name for my image to be used.
+
+<a href="https://github.com/Eventyret">Eventyret</a> provided some help fixing a
+problem with my bootstrap elements. After a few minuets he pointed out i was 
+using the wrong bootstrap version, and advised i cange it from the 4.4.0 version
+to the 3.3.7 version.
