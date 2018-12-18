@@ -61,7 +61,7 @@ website a basic styling, suported with my own css file for a personal look.
 <strong>.</strong> clicked on the link in the banner at top of the page to be
 sent to the contact page.
 
-<strong>.</strong> ran the music video on the home page in desktop, no issues
+<strong>.</strong> Ran the music video on the home page from desktop and mobile view, no issues
 showed up.
 
 <strong>.</strong> tested all the social media links at the bottom of the page,
@@ -100,6 +100,28 @@ they all opened a new window there pages with no issues showed up.
 <strong>.</strong> tested all the navigation buttons at top of the page, no
 issues showed up.
 
+<strong>Events Page:</strong>
+
+<strong>.</strong> clicked on the link in the banner at top of the page to be
+sent to the contact page.
+
+<strong>.</strong> tested all the social media links at the bottom of the page,
+they all opened a new window there pages with no issues showed up.
+
+<strong>.</strong> tested all the navigation buttons at top of the page, no
+issues showed up.
+
+<strong>Contact Page:</strong>
+
+<strong>.</strong> tested the submit button to see if it warned of sections not 
+filled in.
+
+<strong>.</strong> tested all the social media links at the bottom of the page,
+they all opened a new window there pages with no issues showed up.
+
+<strong>.</strong> tested all the navigation buttons at top of the page, no
+issues showed up
+
 ---
 
 <strong>Bug hunt:</strong>
@@ -129,3 +151,8 @@ TheMonkees/events/?ref=page_internal">The Monkees</a>
 Facebook page. all rights to the content belong to Monkees. all images for the
 events are for learning purposes, rights for entrance.jpg image belongs to trip
 advisor, Keswick-Theater.jpg image belongs to facebook
+
+and the count-basie-exteriornighttime1.jpg image belongs to <a href="http://www.ronsunshine.com/event/frank-sinatra-centennial-birthday-bash-at-the-count-basie-theatre/" target="_blank">Ron sunshine.</a>
+
+Band members linked to there indevidual wikki links page. with information on the band page
+added to make it look better than just having there name's and pictures.
