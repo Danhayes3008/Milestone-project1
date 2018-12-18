@@ -40,8 +40,8 @@ learned how to do this yet.
 
 -----------------------------------------------------------
 
-<a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target=
-"_blank"><strong>Demo</strong></a>
+To try out the website <a href="https://preview.c9users.io/danielhayes/mile-stone1/index.html" target=
+"_blank"><strong>Click Here</strong></a> to open a new window.
 
 -----------------------------------------------------------
 
@@ -56,13 +56,15 @@ website a basic styling, suported with my own css file for a personal look.
 
 <strong>Testing:</strong>
 
+See below of all testing I conducted on my webiste. All pages were tested on mobile,
+tablet and desktop.
+
 <strong>Home Page:</strong>
 
 <strong>.</strong> clicked on the link in the banner at top of the page to be
 sent to the contact page.
 
-<strong>.</strong> Ran the music video on the home page from desktop and mobile view, no issues
-showed up.
+<strong>.</strong> Ran the music video on the home page, no issues showed up.
 
 <strong>.</strong> tested all the social media links at the bottom of the page,
 they all opened a new window there pages with no issues showed up.
@@ -128,14 +130,14 @@ issues showed up
 
 I used the developers tools on Microsoft edge and discovered a few misplaced tags.
 This has been fixed, after looking for more bugs i could not find any more errors
-with the website. - 1/11/2018
+with the website.
 
 -----------------------------------------------------------
  
 <strong>Contributions:</strong>
  
 After researching the Monkees on Google i discovered from a
-<a href="https://www.monkees.com/news?page=1">monkees</a>
+<a href="https://www.monkees.com/news?page=1">the Monkees</a>
 website that a Christmas album has been released. No text was copied, but wanted
 to give recognition to this website for the latest news on the band that i have
 found. This also includes dates for Michael Nesmith and the First National Band
