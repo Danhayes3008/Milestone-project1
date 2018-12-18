@@ -147,9 +147,10 @@ all events information has came from <a href="https://www.facebook.com/pg/
 TheMonkees/events/?ref=page_internal">The Monkees</a>
 Facebook page. all rights to the content belong to Monkees. all images for the
 events are for learning purposes, rights for entrance.jpg image belongs to trip
-advisor, Keswick-Theater.jpg image belongs to facebook
-
-and the count-basie-exteriornighttime1.jpg image belongs to <a href="http://www.ronsunshine.com/event/frank-sinatra-centennial-birthday-bash-at-the-count-basie-theatre/" target="_blank">Ron sunshine.</a>
+advisor, Keswick-Theater.jpg image belongs to facebook and the
+count-basie-exteriornighttime1.jpg image belongs to
+<a href="http://www.ronsunshine.com/event/frank-sinatra-centennial-birthday-bash
+-at-the-count-basie-theatre/" target="_blank">Ron sunshine.</a>
 
 Band members linked to there indevidual wikki links page. with information on the band page
 added to make it look better than just having there name's and pictures.
