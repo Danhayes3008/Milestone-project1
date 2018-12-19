@@ -76,9 +76,16 @@ with a link to there youtube page too.
 - 
 This is the standard language for making websites.
 
-<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><strong>CSS</strong></a> 
+<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><strong>CSS</strong></a>
 - 
+In combanation with Bootstrap I used my own css file to give the website a personal touch.
+This also allowed me to get the website to work properly on all devices.
 
+<a href="https://en.wikipedia.org/wiki/JavaScript"><strong>JavaScript</strong></a>
+-
+JavaScript was used to make the contact form. It requires the user to input there name,
+e-mail and a message to submit anything. If anything is missing a prompt shows
+the users what is missing.
 
 
 <a href=”http://getbootstrap.com”><strong>Bootstrap</strong></a>
