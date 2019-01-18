@@ -85,7 +85,8 @@ This is the standard language for making websites.
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><strong>CSS</strong></a>
 - 
 In combanation with Bootstrap I used my own css file to give the website a personal touch.
-This also allowed me to get the website to work properly on all devices.
+This also allowed me to get the website to work properly on all devices, and to the look i was hoping for.
+
 
 <a href="https://en.wikipedia.org/wiki/JavaScript"><strong>JavaScript</strong></a>
 -
