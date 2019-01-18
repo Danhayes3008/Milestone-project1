@@ -264,7 +264,7 @@ audio{
     body{
         background: url('../../media/images/monkees.jpg');
         background-repeat: no-repeat;
-        -webkit-background-size: length_y;
+        -webkit-background-size: length;
         -moz-background-size: length_y;
         -o-background-size:length_y;
         background-size: length_y;

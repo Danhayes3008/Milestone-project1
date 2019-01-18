@@ -1,4 +1,4 @@
-Website status: <strong>Work in progress</strong>
+Website status: <strong>Complete</strong>
 -
 
 <strong>Mile-stone Project 1</strong>
@@ -179,6 +179,29 @@ issues showed up
 I used the developers tools on Microsoft edge and discovered a few misplaced tags.
 This has been fixed. On mobile and tablet the background image gets stretched, 
 this will be fixed at a later date.
+
+---
+
+<strong>Deployment:</strong>
+-
+
+I chosen to deploy my website to Github due to its simple method for uploading whilst
+you are still working on your projects. To upload to Github you first have to create 
+a repository on github then enter the following commands onto the command window on cloud 9:
+
+
+- git remote add origin git@github.com:Danhayes3008/repository-name.git
+- git inital
+- git add .
+- git commit -m "update" .
+- git push -u origin master
+
+
+By doing this all the work on the website is backed up incase there is problems with 
+the development side. It will allow me to recover a previously deployed file allowing me to
+recover any information that was lost or incorrectly altered.
+
+
 
 -----------------------------------------------------------
  
