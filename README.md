@@ -23,6 +23,12 @@ navigate allowing the user to easily find the content there after. In the bottom
 of every page are links to there social media pages and there youtube page so
 that users can find information that Is not on the website. 
 
+<strong>Wire Frame:</strong>
+-
+
+no wire frame available for upload as it was drawn on paper and over the course of 
+building the website some features had to be changed to make it work.
+
 -----------------------------------------------------------
 
 <strong>Current features:</strong>
