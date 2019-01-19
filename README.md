@@ -209,6 +209,10 @@ the development side. It will allow me to recover a previously deployed file all
 recover any information that was lost or incorrectly altered.
 
 
+To try this locally through cloud 9 inter the following command into a blank workspace's terminal:
+git clone https://github.com/Danhayes3008/Milestone-project1.git
+
+
 
 -----------------------------------------------------------
  
