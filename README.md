@@ -250,3 +250,7 @@ add ../../ at front of the name for my image to be used.
 problem with my bootstrap elements. After a few minuets he pointed out i was 
 using the wrong bootstrap version, and advised i cange it from the 4.4.0 version
 to the 3.3.7 version.
+
+Any other simularity's of my code to anyone else's is a coincidence, not coding was copied
+from any other projects available through github. This is also true for any simularity's to any
+other websites layout made for this band.
