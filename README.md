@@ -68,7 +68,7 @@ with a link to there youtube page too.
 
 -----------------------------------------------------------
 
-<strong>To try out the website <a href="https://danhayes3008.github.io/Milestone-project1/" target=
+<strong>To try out the website <a href="https://danhayes3008.github.io/The-Monkees-Band-Page/" target=
 "_blank">Click Here </a>to open a new window.</strong>
 
 
